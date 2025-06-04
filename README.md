@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  jithin
 - 👀 A passionate Full Stack Developer in the making, eager to build cool stuff and solve real-world problems with code.
-- 🌱 I’m currently learning Full Stack Development with an intrest in AI.
+- 🌱 I’m currently learning Full Stack Development, with a growing interest in AI and machine learning.
 - 💞️ I’m looking to collaborate on web apps, APIs, open source projects and any thing related to coding.
 - 📚 Always exploring new technologies and improving my skills
 - 📫 How to reach me 
